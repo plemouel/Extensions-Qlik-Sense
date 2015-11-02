@@ -1,0 +1,8 @@
+{
+	"name" : "Polar - Chart.js",
+	"description" : "Extension Polar with chart.js",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "0.1",
+	"author": "OPSO-PL"
+}
